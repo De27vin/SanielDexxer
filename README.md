@@ -3,8 +3,8 @@
 I'm @De27vin
 
 ## About Me
-- 👀 I’m interested in Web Development and Linux
-- 🌱 I’m currently learning PHP, Laravel and Vue.js
+- 👀 I’m interested in Web/App Development and Linux
+- 🌱 I’m currently learning PHP, Laravel, Vue.js and Kotlin.
 - 📫 How to reach me: [devin.mugglin@proton.me](mailto:devin.mugglin@proton.me)
 
 ## Skills
